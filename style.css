@@ -128,6 +128,9 @@ body{
  .section-one{
   margin-bottom: 50px;
  }
+ .orange{
+  color: orange;
+ }
  /* sections two */
  .service{
   width: 500px;
