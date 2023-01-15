@@ -1,0 +1,73 @@
+@media screen and (max-width:576px){
+
+   .header-one{
+  background:none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+ 
+}
+.header-div{
+  flex-direction: column;
+ 
+  
+}
+.heading-g3{
+  margin-left: 50%;
+  margin-bottom: -40px;
+}
+.nav-div> .nav-ul{
+ flex-direction: column;
+  row-gap: 30px;
+  
+  
+}
+.nav-div{
+  display: flex;
+ 
+}
+.middle-heading >p , h1{
+ margin-left: 30%;
+ width: 100%;
+ 
+}
+.btn-div{
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+.banner-img{
+  display:flex;
+  justify-content: flex-start;
+  margin-left: 40px;
+}
+.section-div{
+  flex-direction: column;
+}
+.feature-img{
+  display: grid;
+  grid-template-columns: repeat(1,1fr);
+  margin: 0 auto;
+  width: 100%;
+  margin-left: 150px;
+}
+.engineer-heading{
+  padding-left: 20px;
+}
+.heading-en{
+    padding-bottom: 20px;
+}
+.btn-two{
+  margin-left: 35%;
+}
+.main-container{
+  flex-direction: column;
+  width: 100%;
+}
+.heading-feature{
+   margin-left: -0px;
+ 
+}
+}
